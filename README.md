@@ -19,3 +19,11 @@
 2. pip3 pip2
 3. go
 4. java
+
+### Installation:
+```
+git clone https://github.com/xenion0/Android_install.git  
+cd Android_install  
+chmod +x setup.sh    
+./setup.sh
+```
