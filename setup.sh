@@ -52,7 +52,7 @@ echo -e "./setup.sh [-i ip for android Device in network] [-f file fo CA burp] "
 echo -e ""
 echo -e "Flags:"
 echo -e "   -i, --ip                 ${BK}string${RESET}      Android Emulator IP Address             -i 192.168.241.101"
-echo -e "   -f, --file               ${BK}string${RESET}      Burp's CA certificate                   -f cacert.der"
+echo -e "   -f, --file               ${BK}string${RESET}      Burp's CA certificate                   -f ./cacert.der"
 
 exit 0
 
